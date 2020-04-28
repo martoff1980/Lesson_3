@@ -1,2 +1,8 @@
-TextD1
-TextD2
+mm,,m,.,/
+zzxccvbnnmm,,
+<<<<<<< HEAD
+ttyuiop[xcvgbhjkl;
+  nnmnmmmmm,,m
+=======
+ttyuiop[xcvgbhjkl;
+>>>>>>> 5440227bff6ae86d5fe8c110cb77b17b31955fcf
